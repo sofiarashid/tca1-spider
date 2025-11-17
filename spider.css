@@ -68,7 +68,7 @@ html {
 .spider .legs.right {
   right: -60%;
 }
-.legs.left .length-child(1){
+.legs.left .leg:nth-child(1){
   transform: rotate(10deg);
   margin-left: 10px;
 }
