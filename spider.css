@@ -1,8 +1,8 @@
 html {
-  background: #ff785a;
+  background: #c2bad1;
 }
 .spiderweb {
-  background: #fff;
+  background: #efe9f7;
   width: 2px;
   height: 200px;
   margin-left: 49px;
@@ -18,14 +18,14 @@ html {
 .spider .body {
   width: 100px;
   height: 80px;
-  background: #000;
+  background: #24153b;
   position: relative;
   border-radius: 50%;
 }
 .spider .body .eye {
   width: 33px;
   height: 33px;
-  background: #fff;
+  background: #efe9f7;
   position: absolute;
   border: 20px;
   border-radius: 50%;
@@ -38,7 +38,7 @@ html {
   left: 15px;
 }
 .spider .eye::after {
-  background: #000;
+  background: #24153b;
   width: 7px;
   height: 7px;
   content: '';
@@ -57,7 +57,7 @@ html {
   height: 40px;
   margin-top: -20px;
   border: 5px solid transparent;
-  border-top-color: #000;
+  border-top-color: #24153b;
   border-radius: 40px 40px 0 0;
 }
 .spider .legs.left {
