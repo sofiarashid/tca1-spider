@@ -18,7 +18,7 @@ html {
 .spider .body {
   width: 100px;
   height: 80px;
-  background: #24153b;
+  background-image: url("spiderweb.jpg");
   position: relative;
   border-radius: 50%;
 }
