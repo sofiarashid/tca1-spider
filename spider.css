@@ -74,7 +74,7 @@ html {
   margin-left: -10px;
 }
 .legs.left .leg:nth-child(2){
-  transform: rotate(20deg);
+  transform: rotate(-20deg);
   margin-left: 20px;
 }
 .legs.right .leg:nth-child(2){
