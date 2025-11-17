@@ -96,7 +96,7 @@ html {
   0%, 40%, 100% {
     transform: translate X(0);
   }
-  45%, 95%; {
+  45%, 95% {
     transform: translateX(-110%);
   }
 }
