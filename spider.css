@@ -29,7 +29,9 @@ html {
   border: 20px;
   border-radius: 50%;
 }
-
+.spider .spiderweb {
+  background-color: #DCB6E9;
+}
 .spider .eye.right{
   right: 15px;
 }
