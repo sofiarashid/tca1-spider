@@ -17,7 +17,7 @@ html {
 .spider .body {
   width: 100px;
   height: 80px;
-  background-image: url("spiderweb.jpg");
+  background: #DCB6E9;
   position: relative;
   border-radius: 50%;
 }
@@ -56,7 +56,7 @@ html {
   height: 40px;
   margin-top: -20px;
   border: 5px solid transparent;
-  border-top-color: #24153b;
+  border-top-color: #DCB6E9;
   border-radius: 40px 40px 0 0;
 }
 .spider .legs.left {
